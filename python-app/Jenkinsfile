@@ -4,7 +4,7 @@ pipeline {
 
     registry = "neetimunshi/project1"
 
-    registryCredential = 'docker-creds'
+    registryCredential = 'docker_creds'
 
     dockerImage = ''
 
